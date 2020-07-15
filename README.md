@@ -1,0 +1,1 @@
+This is Samet's first git project!
